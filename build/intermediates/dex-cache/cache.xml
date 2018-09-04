@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Downloads\NearbyPlaces-master\LocalRestaurant\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c7089397aced78d23ce799efc8ca942fd4089b5">
+        <dex dex="C:\Users\Administrator\Downloads\NearbyPlaces-master\LocalRestaurant\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6f802a44cf109a51fcdb6a0977e29666312d94ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Downloads\NearbyPlaces-master\LocalRestaurant\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Administrator\Downloads\NearbyPlaces-master\LocalRestaurant\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_93107bf48300c86d37f040fd43f47a1a6859756e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="search_hint">DoorDash HQ</string>
+    <string name="app_places_name">Local restaurants</string>
+</resources>
